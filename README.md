@@ -39,15 +39,16 @@ Unlike traditional timer-based approaches, this system utilizes **High-Speed Cou
 * **Actuators:** DC Motor (Conveyor), Pneumatic Cylinders (Sorting)
 
 ## 📂 Project Structure
-* `/PLC_Code`: Contains the archived TIA Portal project file (`.ap18`).
+* `/Conveyor Station`: Contains the archived TIA Portal project file (`.ap18`).
 * `/Docs`: Technical documentation and I/O lists.
-* `/Screenshots`: Images of the HMI screens and logic segments.
+* `/HMI Screen`: Images of the HMI screens and logic segments.
 
 ## 🚀 How to Run
 1.  Open **TIA Portal V18**.
-2.  Retrieve the archived project file from the `PLC_Code` folder.
-3.  Load the program into PLCSIM or physical S7-1200 hardware.
-4.  Connect the HMI simulation.
+2.  Retrieve the archived project file from the `Conveyor Station` folder.
+3.  Extract the "FB_library_AE23_IEPIP24.7z" and put it in the same folder with the `Conveyor Station` folder.
+4.  Load the program into PLCSIM or physical S7-1200 hardware.
+5.  Connect the HMI simulation.
 
 ---
 *Created by Minh Nhat Nguyen - Automation Engineering Student @ SeAMK*
