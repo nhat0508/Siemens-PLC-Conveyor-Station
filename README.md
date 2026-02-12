@@ -13,15 +13,7 @@ Unlike traditional timer-based approaches, this system utilizes **High-Speed Cou
 
 ---
 
-## 🎥 Demo
-*(Click the image below to watch the full operation video)*
-
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
-
-> *Note: If you have a GIF, replace the image link above with your GIF link for a cool preview effect.*
-
----
-
+#
 ## ⚙️ Key Features
 * [cite_start]**Precise Positioning:** Implemented HSC (High-Speed Counter) logic to track workpiece location on the belt with millimeter accuracy[cite: 317].
 * **Structured Modes:**
